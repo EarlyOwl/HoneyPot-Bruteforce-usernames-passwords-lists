@@ -1,5 +1,10 @@
 # HoneyPot bruteforce attempts
+
+![image](https://badgen.net/github/last-commit/EarlyOwl/HoneyPot-Bruteforce-usernames-passwords-lists)
+
  A collection of usernames and passwords collected by several web-facing honeypots
+
+ ## About
 
 This repository contains list of usernames, passwords and a combination of username/password collected by web-facing honeypots exposing SSH, RDP, FTP, TELNET, HTTP and HTTPS services.
 
@@ -9,9 +14,9 @@ If one of your system's passwords figures among those, you're **advised to chang
 
 ## Numbers
 
-- Total number of unique usernames: 1081
-- Total number of unique passwords: 21733
-- Total number of unique username/password combo: 23561
+- Total number of unique usernames: ~~1081~~ 2096
+- Total number of unique passwords: ~~21733~~ 40262
+- Total number of unique username/password combo: ~~23561~~  42872
 
 ## Ordered by frequency
 - List of usernames by frequency [here](/frequency/list_usernames_by_frequency.txt)

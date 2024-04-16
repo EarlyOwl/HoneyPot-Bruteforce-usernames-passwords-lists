@@ -14,9 +14,9 @@ If one of your system's passwords figures among those, you're **advised to chang
 
 ## Numbers
 
-- Total number of unique usernames: ~~1081~~ 2096
-- Total number of unique passwords: ~~21733~~ 40262
-- Total number of unique username/password combo: ~~23561~~  42872
+- Total number of unique usernames: ~~1081~~ ~~2096~~ 4864
+- Total number of unique passwords: ~~21733~~ ~~40262~~ 42036
+- Total number of unique username/password combo: ~~23561~~  ~~42872~~ 45869
 
 ## Ordered by frequency
 - List of usernames by frequency [here](/frequency/list_usernames_by_frequency.txt)
